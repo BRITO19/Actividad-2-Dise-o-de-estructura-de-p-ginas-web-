@@ -33,7 +33,9 @@ img{
     margin: 15px;
 }
 
-
+section{
+    font-size: large;
+}
 
 footer{
     font-weight: bold;

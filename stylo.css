@@ -1,0 +1,41 @@
+table{
+   background-color: rgba(1, 13, 36, 0.582);
+   margin: 15px;
+   
+   }
+
+   thead{
+    background-color: rgb(59, 111, 179);
+    margin: 25px;
+    
+
+   }
+   tbody{
+    background-color: rgb(255, 255, 255);
+    
+   }
+
+#tr{
+    background-color: rgba(0, 54, 153, 0.171);
+    margin-left: 45px;
+}
+
+
+#p{
+    font-weight: bolder;
+}
+
+header{
+    padding-left: 15px;
+}
+img{
+    padding-left: 15px;
+    margin: 15px;
+}
+
+
+
+footer{
+    font-weight: bold;
+    margin:15px;
+}

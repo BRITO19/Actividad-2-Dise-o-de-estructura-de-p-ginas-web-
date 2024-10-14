@@ -1,2 +1,2 @@
-# Actividad-2-Dise-o-de-estructura-de-p-ginas-web-
+# Actividad-2-Diseño-de-estructura-de-paginas-web-
 Diseño de estructura de páginas web
